@@ -1,4 +1,3 @@
-package threadDemo;
 import java.util.concurrent.TimeUnit;
 
 public class TryConcurrency {
